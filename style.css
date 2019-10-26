@@ -1,6 +1,7 @@
 
 body{
     background-color: lightgrey;
+    min-height: 90vh;
 }
 form{
     background-color: black;
@@ -23,4 +24,14 @@ form{
 
 .wrapper{
     text-align: center;
+}
+
+footer {
+  bottom: 0px;
+  height: 5vh;
+  width: 100vw;
+  background-color: black !important;
+  color: lightgrey !important;
+  text-align: center;
+  
 }
