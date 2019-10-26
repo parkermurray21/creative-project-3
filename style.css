@@ -1,1 +1,26 @@
 
+body{
+    background-color: lightgrey;
+}
+form{
+    background-color: black;
+    color:white;
+    padding:25px;
+    content:center;
+    text-align: center;
+    border: 10px solid;
+    border-color: yellow;
+    
+}
+
+.card{
+    height:auto;
+    width: 50vw;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.wrapper{
+    text-align: center;
+}
